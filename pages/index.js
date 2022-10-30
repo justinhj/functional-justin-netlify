@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Functional[Justin]</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Functional Justin" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+            Function Justin next.js migration. (wip)
         </p>
       </main>
 

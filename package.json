@@ -8,6 +8,7 @@
     "export": "next export"
   },
   "dependencies": {
+    "@netlify/functions": "^1.3.0",
     "cypress": "^10.0.3",
     "next": "^13.0.0",
     "react": "^18.2.0",
